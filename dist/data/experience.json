@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "workPlace": "Internship at PT.Taza mulia Barokah",
+            "workYear": "2017",
+            "workDetail": [
+                "- Creating an information system to make it easier for customers to get information.",
+                "- Troubleshooting and maintenance IT equipment.",
+                "- Preparing for event needs"
+            ]
+        },
+        {
+            "workPlace": "Leader of the Community Service Program",
+            "workYear": "2017",
+            "workDetail": [
+                "- Training villagers about the use of resources so that they can become more economic values",
+                "- Construction of village border signs",
+                "- Hold teaching for elementary school"
+            ]
+        },
+        {
+            "workPlace": "Programing Training in Enigma IT Bootcamp",
+            "workYear": "2019",
+            "workDetail": [
+                "- Learning Programing with Java(Spring-boot), Node JS, React Native, Angular with each Framwork",
+                "- Learning many basic skills on programing",
+                "- Build Apps on mobile and web for final project"
+            ]
+        },
+        {
+            "workPlace": "Aplication Development in Mandiri tbk as Software Engeneer",
+            "workYear": "now",
+            "workDetail": [
+                "- Working with Java with Spring-boot Framework Backend",
+                "- Using Oracle Databases",
+                "- Using Angular for Frontend project",
+                " - Developing Few Project"
+            ]
+        }
+    ]
+}

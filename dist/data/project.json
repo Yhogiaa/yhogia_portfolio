@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "projectName": "SISTEM PENDUKUNG KEPUTUSAN UNTUK PREDIKSI BIAYA PERJALANAN WISATA",
+            "technology": "Html, Php5, CI Framwork, MySql",
+            "img": "pic01.jpg"
+        },
+        {
+            "projectName": "LOAN COLLECTION SYSTEM WEB AND MOBILE APPS",
+            "technology": "NodeJs, ExpressJS, Mysql, Angular, React-Native",
+            "img": "pic02.jpg"
+        },
+        {
+            "projectName": "ADMIN MONITORING SYSTEM FOR DATA SERVER",
+            "technology": "Java, Spring-boot, Oracle, Angular 8",
+            "img": "pic03.jpg"
+        },
+        {
+            "projectName": "LIBRARY BOOK BORROWING AS BACKEND",
+            "technology": "Java, Spring-boot, Eureka, Micro Services",
+            "img": "pic03.jpg"
+        },
+        {
+            "projectName": "ONLINE PORTFOLIO WITH HTML AND JAVASCRIPT",
+            "technology": "Html5, javascript, Json",
+            "img": "pic03.jpg"
+        }
+    ]
+}

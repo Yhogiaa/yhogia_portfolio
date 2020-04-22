@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "name": "Yhogi Andianggara",
+            "job": "Software Engineer",
+            "about": "I am graduate from Bachelor of Science in Information Technology (2014-2018) Universitas Siliwangi. <br />And Now I am Become Software Engineer with a demonstrated history of working in the banking industry. <br />Skilled in Java with Spring Boot Framework, Oracle and MySql Databases, and Angular. <br />Strong engineering professional with a focused in Backend Programming. ",
+            "img": "profile.jpg",
+            "facebook": "https://web.facebook.com/yhogiaa",
+            "instagram": "https://www.instagram.com/yhogia_",
+            "linkin": "https://www.linkedin.com/in/yhogi-andianggara-69688b179",
+            "github": "https://github.com/Yhogiaa",
+            "email": "mailto:yhogiaa@gmail.com?subject=from_portofolio&body=Write%20down%20your%20needs"
+        }
+    ]
+}
